@@ -1,0 +1,23 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "A basic app to learn backend and its deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "chaibackend",
+    "chai",
+    "backend"
+  ],
+  "author": "Prafulla Badgujar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
